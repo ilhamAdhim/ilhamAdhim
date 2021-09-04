@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Javascript and React
-🔭 I’m currently working on Personal Projects and Internship
-🎯 Front End Web Developer
+🌱 I’m currently learning Javascript and React <br>
+🔭 I’m currently working on Personal Projects and Internship <br>
+🎯 Front End Web Developer <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

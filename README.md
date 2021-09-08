@@ -9,9 +9,12 @@
 <p align="left">
 <a href="https://github.com/ilhamAdhim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhamAdhim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamAdhim&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamAdhim&&hide=html&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 </p>
+
+[![ilhamadhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilhamadhim)](https://github.com/ilhamadhim/github-readme-stats)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 

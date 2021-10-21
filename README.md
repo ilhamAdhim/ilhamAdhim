@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Javascript and React <br>
-🔭 I’m currently working on Personal Projects and Internship <br>
+🔭 I’m currently working on Personal Projects and Kampus merdeka at [Dicoding](www.dicoding.com) and took Machine Learning and Frontend Courses <br>
 🎯 Front End Web Developer <br>
 
 ### ⚙️ &nbsp;GitHub Analytics

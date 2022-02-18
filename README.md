@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Javascript and React <br>
-🔭 I’m currently working on Personal Projects and Kampus merdeka at [Dicoding](www.dicoding.com) and took Machine Learning and Frontend Courses <br>
-🎯 Front End Web Developer <br>
+🔭 Personal Projects and Kampus merdeka at [Ruangguru](https://www.ruangguru.com/program/kampus-merdeka?_hsmi=200851744&_hsenc=p2ANqtz-9aUSrd6DElxsP4bZadVwCusGZEVxLSJL6oI_piex7Y_Jb27THZDnESe0RXOy7jyFaZrLhYrvG_D9NOZktQj97gndCzzQ) as Frontend Engineer Student Bootcamp <br>
+🎯 Front-End Web Developer | Front-End Engineer <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

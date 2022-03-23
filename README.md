@@ -4,22 +4,28 @@
 🔭 Personal Projects and Kampus merdeka at [Ruangguru](https://www.ruangguru.com/program/kampus-merdeka?_hsmi=200851744&_hsenc=p2ANqtz-9aUSrd6DElxsP4bZadVwCusGZEVxLSJL6oI_piex7Y_Jb27THZDnESe0RXOy7jyFaZrLhYrvG_D9NOZktQj97gndCzzQ) as Frontend Engineer Student Bootcamp <br>
 🎯 Front-End Web Developer | Front-End Engineer <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+Main Stack :
 
-<p align="left">
-<a href="https://github.com/ilhamAdhim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhamAdhim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-[![ilhamadhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilhamadhim)](https://github.com/ilhamadhim/github-readme-stats)
+Others: 
+
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
+ 
+  <a href="https://www.linkedin.com/in/muhammad-ilham-adhim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ilhamm179@gmail.com"><img src="https://img.shields.io/badge/-ilhamm179@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<p align="left">
-<a href="mailto:ilhamm179@gmail.com"><img src="https://img.shields.io/badge/-ilhamm179@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 <!--
 **ilhamAdhim/ilhamAdhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Javascript and React <br>
+🌱 I’m currently learning Typescript and React <br>
 🔭 Personal Projects and Kampus merdeka at [Ruangguru](https://www.ruangguru.com/program/kampus-merdeka?_hsmi=200851744&_hsenc=p2ANqtz-9aUSrd6DElxsP4bZadVwCusGZEVxLSJL6oI_piex7Y_Jb27THZDnESe0RXOy7jyFaZrLhYrvG_D9NOZktQj97gndCzzQ) as Frontend Engineer Student Bootcamp <br>
 🎯 Front-End Web Developer | Front-End Engineer <br>
 

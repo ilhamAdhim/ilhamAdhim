@@ -27,7 +27,7 @@ Others:
   <a href="mailto:ilhamm179@gmail.com"><img src="https://img.shields.io/badge/-ilhamm179@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### Check out my website as well 👇
-https://ilhamadhim.vercel.app/
+https://ilhamadhim.me/
 
 <!--
 **ilhamAdhim/ilhamAdhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

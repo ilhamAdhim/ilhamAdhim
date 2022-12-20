@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Typescript and React <br>
-🔭 Open To Work Opportunities <br>
 🎯 Front-End Web Developer | Front-End Engineer <br>
 
 Main Stack :

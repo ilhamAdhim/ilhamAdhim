@@ -9,7 +9,7 @@ I've been on web development for over 5 years and mainly focused on using React 
 * 🌍  I'm based in Malang, East Java, Indonesia
 * 🖥️  See my portfolio at [Personal Website](http://ilhamadhim.my.id)
 * ✉️  You can contact me at [ilham.adhim@gmail.com](mailto:ilham.adhim@gmail.com)
-* 🚀  I'm currently working on [MoneytorQ](http://moneytorq.vercel.app)
+* 🚀  I'm currently working on personal project: [MoneytorQ](http://moneytorq.com)
 * 🧠  I'm learning Supabase, ShadCN UI, and PostgreSQL
 * 🤝  I'm open to collaborating on SaaS Web App Projects, Landing Page creation, Company Profile
 * ⚡  I do gyms while i'm not coding 🏋️‍♂️
@@ -34,7 +34,7 @@ I've been on web development for over 5 years and mainly focused on using React 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ilhamadhim/moneytorq" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamadhim&repo=moneytorq-legacy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ilhamadhim/personal-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamadhim&repo=personal-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ilhamadhim/moneytorq-legacy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamadhim&repo=moneytorq-legacy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ilhamadhim/personal-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamadhim&repo=personal-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!--
 **ilhamAdhim/ilhamAdhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
